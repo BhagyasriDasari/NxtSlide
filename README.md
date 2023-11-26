@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# NxtSlide
+
+Website Link:https://nxtslidebhagya.ccbp.tech/
+
+>>>>>>> 771b46a70af8281ef18f78dcc30747bbf6122b53
 ### Project Description
 
 In this project, you are going to build a **Nxt Slides** Application.
@@ -123,4 +130,8 @@ In this project, you are going to build a **Nxt Slides** Application.
   - Standard naming conventions
   - The code must be easily understandable
   - The code must be readable
+<<<<<<< HEAD
 </details>
+=======
+</details>
+>>>>>>> 771b46a70af8281ef18f78dcc30747bbf6122b53
