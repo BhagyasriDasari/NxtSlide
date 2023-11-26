@@ -1,0 +1,51 @@
+.nxt-button {
+  display: flex;
+  font-weight: bold;
+  padding: 8px 15px 8px 15px;
+  margin: 15px 10px 15px 25px;
+  border-radius: 8px;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: #dbeafe;
+  border-width: 0;
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.image {
+  width: 12px;
+  margin-right: 6px;
+}
+
+@media (min-width: 768px) {
+  .nxt-button {
+    font-size: 18px;
+    margin: 15px 20px 15px 35px;
+  }
+}
+
+@media (min-width: 992px) {
+  .nxt-button {
+    font-size: 20px;
+    margin: 15px 30px 15px 45px;
+  }
+
+  .image {
+    width: 16px;
+    margin-right: 8px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .nxt-button {
+    font-size: 24px;
+    margin: 15px 40px 15px 55px;
+  }
+
+  .image {
+    width: 20px;
+    margin-right: 10px;
+  }
+}
